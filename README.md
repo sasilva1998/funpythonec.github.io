@@ -1,4 +1,12 @@
 # FUNPYTHON
 
-Red de innovación enfocada en el desarrollo y aplicaciones de plataformas y herramientas 
-libres como MicroPython, Python, KiCad, FreeCAD, ROS, ESP32/8266.
+Comunidad y Red de Innovación Social con registro en Senescyt REG-RED-18-0040	
+
+Senescyt:
+
+Secretaria de educacion superior, ciencia, tecnología e innovación.
+
+
+## Redes de innovación social
+
+Las redes de innovación social son aquellas orientados al aprovechamiento efectivo de los resultados de investigaciones, ideas creativas o tecnologías, con el fin de crear y desarrollar emprendimientos innovadores, transferencia de tecnología o sus equivalentes. 
