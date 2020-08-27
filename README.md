@@ -8,7 +8,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/funpythonec/funpythonec.github.io?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/funpythonec/funpythonec.github.io?style=plastic)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-## Hola somo FunPython - FPy
+## Hola somos FunPython - FPy
 
 Somos una comunidad autogestionada y también una red de innovación social con registro REG-RED-18-0040 avalado por la Senescyt (Secretaria de Educacion Superior, Ciencia, Tecnología e Innovación).
 
