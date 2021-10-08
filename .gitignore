@@ -49,3 +49,4 @@ ehthumbs.db
 Thumbs.db
 .vscode
 venv
+node_modules/
